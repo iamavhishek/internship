@@ -6,6 +6,7 @@ namespace Internship{
             Console.WriteLine("Hi");
 
             Console.WriteLine("Change 1");
+            Console.WriteLine("Change 2");
         }
     }
 }
