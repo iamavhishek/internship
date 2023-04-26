@@ -4,6 +4,8 @@ namespace Internship{
         public static void Main(string[] args){
             Console.WriteLine("Welcome, Sujar!");
             Console.WriteLine("Hi");
+
+            Console.WriteLine("Change 1");
         }
     }
 }
