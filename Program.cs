@@ -2,7 +2,7 @@
 namespace Internship{
     public class Application{
         public static void Main(string[] args){
-            Console.WriteLine("Welcome, Ravi!");
+            Console.WriteLine("Welcome, Sujar!");
         }
     }
 }
